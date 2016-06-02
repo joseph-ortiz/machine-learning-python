@@ -34,4 +34,21 @@ Data Science is a blend of Software development and Math/Statistics
  - Multiple language support
  - [Anacaoda Distribution](https://www.continuum.io/downloads)
 
-
+##Machine Learning Workflow
+- An orchestrated and *repeatable pattern* which systematically transforms and processes information to create predictive solutions.
+- Steps
+ - Asking the right question
+ - Preparing the Data
+ - selecting the algorithm
+ - Training the model
+ - Testing the model
+- Guidelines
+ - Early steps are most important
+ - Expect to go backwards 
+  - later knowledge effects previous steps
+- Data is never as you need it
+ - Data will have to be altered
+- More data is better
+ - Better results
+- Don't purse a bad solution
+ - reevaluate, fix or quit
