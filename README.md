@@ -15,6 +15,23 @@ Learning machine learning with python
  - Model proives access to data by cluster. 
  - For example, determining pitch of a voice to determine a particular voice.
 
+##Why?
+Data Science is a blend of Software development and Math/Statistics
 
+##Tools
+- Python
+ - numpy - scientific computing
+ - pandas - data frames
+ - matplotlib - 2d plotting
+ - scikit-learn
+  - Algorithms
+  - Pre-processing
+  - Performance evaluation
+  - More...
+- Jupyter Notebook
+ - Notebook that contains code and text
+ - Shareable
+ - Multiple language support
+ - [Anacaoda Distribution](https://www.continuum.io/downloads)
 
 
