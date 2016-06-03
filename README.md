@@ -86,3 +86,30 @@ Data Science is a blend of Software development and Math/Statistics
  - Jupyter Notebook
   - Python interpreter in the cells
   - Documentation storage in the cells
+## Selecting Algorithms
+  - Role of Algorithm - Engine for the process
+  - Compare factors
+  - Algorithm Decision Factors
+   - Learning Type
+   - Result
+    - Regression - continous set of values
+    - Classification - Discrete values
+   - Complexity
+    - Simple
+    - Ensemble algorithms  = composite algorithms
+   - Basic vs Advanced
+    - Enhanced - performance, other funtionality
+    - Basic - easier to understand
+ - Candidata Algorithms
+  - Naive Bayes
+   - Based on likelihood and probablity based on previous data
+   - Naive assumption that every feature has the same weight
+   - Requires smaller data to train
+   - Simple, fast, stable
+  - Logistic Regression
+   - Confusing name, binary result
+   - Relationship between features are weighted
+  - Decision Tree
+   - Binary Tree
+   - Node contains decision
+   - Requires enough data to determine nodes and splits
