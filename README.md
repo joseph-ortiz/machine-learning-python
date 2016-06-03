@@ -113,3 +113,16 @@ Data Science is a blend of Software development and Math/Statistics
    - Binary Tree
    - Node contains decision
    - Requires enough data to determine nodes and splits
+- Decided Algoirthm
+ - Selecting Bayes Theorem
+  - Learning = Supervised
+  - Result = Binary classification
+  - Non-ensemble
+  - Basic
+## Machine Learning Training
+- Letting *specific* data teach a machine learning algorithm to create a specific *prediction* model.
+- Training Overview
+ - Split Data -> Train Model ->  Evaluate Model
+ - Select Training Features
+  - We want min. columns/features
+
