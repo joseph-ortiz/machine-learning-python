@@ -61,6 +61,13 @@ Data Science is a blend of Software development and Math/Statistics
   - Focus on at risk population
 
 ### Preparing the Data
+- Summary
+ - Used Panda to read demo data
+ - ID'd  correlated features
+ - cleaned data
+ - molded data
+ - check true/false ratio
+ - Discussed data rules
 - Tidy datasets are easy to manipulate, model,and visaulize, and have a specific structure
  - each *variable* is a *column*
  - each *observation* is a *row*
@@ -70,7 +77,12 @@ Data Science is a blend of Software development and Math/Statistics
 - Data Rules
  1. Closer the data is to what you are predicting the better
  2. Data will never be in the format you need.
+ 3. Accurately predicting rare data results is difficult.
 - Remove duplicated columns
 - Correlated Columsn - Same information but in a different format.
  - Example - an Id as a string vs an ID as a number
  - this can amplify data as a bias, add little info, can cause algorithms to get confused.
+- Change Tracking
+ - Jupyter Notebook
+  - Python interpreter in the cells
+  - Documentation storage in the cells
