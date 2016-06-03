@@ -125,4 +125,16 @@ Data Science is a blend of Software development and Math/Statistics
  - Split Data -> Train Model ->  Evaluate Model
  - Select Training Features
   - We want min. columns/features
+- Scikit-learn library
+ - Designed to work with Numpy,Scipy, and Pandas
+ - Toolset for training and eval tasks
+- Missing Data
+ - Common Problem
+  - delete data
+  - impute data ( replace data with another value)
+   - derive data based off of other features
+   - using the mean,medium of the data
+
+
+ 
 
