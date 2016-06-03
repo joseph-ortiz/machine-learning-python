@@ -1,5 +1,5 @@
 # machine-learning-python
-Learning machine learning with python
+Learning machine learning with python. These are hightlights and points I learned from the *Understanding Machine Learning with Python* on Pluralsight.
 
 ##What is Machine Learning
 - Data gets passed to algorithm and analyzes the data to create a model
@@ -52,3 +52,25 @@ Data Science is a blend of Software development and Math/Statistics
  - Better results
 - Don't purse a bad solution
  - reevaluate, fix or quit
+ 
+ ###  Asking the right question
+ - Predict if a person will develop diabetes"
+ - Define Solution Statement Goals
+  - Understand features in data
+  - IDentitfy critical features
+  - Focus on at risk population
+
+### Preparing the Data
+- Tidy datasets are easy to manipulate, model,and visaulize, and have a specific structure
+ - each *variable* is a *column*
+ - each *observation* is a *row*
+ - each type of *observational unit*  unit is a *table*
+- Getting Data
+ - Find via Google, Gov't DB, professional Data Srouces, your company, department, etc.
+- Data Rules
+ 1. Closer the data is to what you are predicting the better
+ 2. Data will never be in the format you need.
+- Remove duplicated columns
+- Correlated Columsn - Same information but in a different format.
+ - Example - an Id as a string vs an ID as a number
+ - this can amplify data as a bias, add little info, can cause algorithms to get confused.
